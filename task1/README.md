@@ -1,9 +1,3 @@
-### Students
-Kemal Cagin Sertkaya - 2019400264
-
-Leyla Yayladere - 2018400216
-
-Mustafa Atay - 2020400333
 
 ### Q1.a
 
